@@ -1,7 +1,0 @@
-jupyterlab
-pandas
-ipywidgets
-ipysheet
-ipyleaflet
-geopandas
-voila
